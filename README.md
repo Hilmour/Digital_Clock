@@ -4,7 +4,7 @@ Installation of Digital clock:
 - Clone repository
 - Open HTML file
 - Click 'Run' in the top of the screen between 'Go' and 'Terminal'
-- Click 'Start debugging' and us your local enviroment
+- Click 'Start debugging'
 
 
 Notes/understanding of code:
