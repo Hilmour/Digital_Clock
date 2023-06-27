@@ -7,6 +7,12 @@ Installation of Digital clock:
 - Click 'Start debugging'
 
 
+Technologies used:
+- JavaScript
+- CSS
+- HTML
+
+
 Notes/understanding of code:
 - A simple but effective digital clock, practicing the use of conditional (ternary) operators.
 - Call the 'showTime()' function to get the current Date and Time in hours (h), minutes (m) and seconds (s).
