@@ -1,4 +1,4 @@
-# Digital_clock
+# Digital Clock
 
 ## Installation of Digital clock:
 - Clone repository
