@@ -3,7 +3,7 @@
 ## Installation of Digital clock:
 - Clone repository
 - Open HTML file
-- Click 'Run' in the top of the screen between 'Go' and 'Terminal'
+- Click 'Run' in the top of the screen
 - Click 'Start debugging'
 
 
@@ -20,4 +20,4 @@
 
 
 ### Last thoughts:
-- My first small project to get the ball rolling. You can get in contact at socials linked in my profile. Enjoy!
+- My first small project to practice vanilla JavaScript. You can get in contact at socials linked in my profile. Enjoy!
